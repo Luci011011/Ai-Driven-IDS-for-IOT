@@ -29,6 +29,19 @@ AI_IDS_for_IoT/
 ├── requirements.txt     # Python dependencies
 ├── README.md            # Project documentation
 └── .gitignore           # Ignored files for Git
+📈 Visualizations
+
+Jupyter notebooks in /notebooks provide:
+
+EDA
+
+Feature importance
+
+Confusion matrix
+
+ROC curves
+
+
 
 🧩 Technologies Used
 
