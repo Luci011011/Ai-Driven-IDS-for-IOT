@@ -30,6 +30,18 @@ AI_IDS_for_IoT/
 ├── README.md            # Project documentation
 └── .gitignore           # Ignored files for Git
 
+📊 Dataset
+
+You can use any IoT‑specific IDS dataset, such as:
+
+UNSW‑NB15
+
+CIC‑IoT‑2023
+
+N‑BaIoT Dataset
+
+Place downloaded datasets inside the /data folder.
+
 
 📈 Visualizations
 Jupyter notebooks in /notebooks provide:
@@ -42,7 +54,15 @@ Confusion matrix
 
 ROC curves
 
+🤖 Model Training
+Run the training script:
+           ---------python src/train.py
+This will:
+preprocess the dataset
 
+train ML/DL model
+
+save output to -/models
 
 🧩 Technologies Used
 
